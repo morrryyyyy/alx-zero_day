@@ -1,1 +1,1 @@
-My first readme
+directory for all git tasks
